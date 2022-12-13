@@ -1,2 +1,2 @@
-# django-tut
+# django
 Practicing and reviewing Django skills
